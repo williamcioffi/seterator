@@ -1,4 +1,5 @@
 #set simulation: THE SETERATOR
+#find out who is left
 
 ncards <- 81
 nattributes <- 4
